@@ -1,6 +1,5 @@
 # RPG_Estructura-datos
  Evaluación 1: Estructuras de Datos y Algoritmos punto 2
-
 Andrés Felipe Patiño Almeyda 000371563
 Isabela García Ángel 000373068
 
